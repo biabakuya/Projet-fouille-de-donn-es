@@ -90,4 +90,6 @@ Les principaux objectifs du projet sont :
   - Les erreurs communes entre modèles indiquent des groupes d'étudiants ou de pays plus difficiles à classifier, nécessitant une analyse plus fine.
 
 
-Auteur: BIABA KUYA Jirince
+---
+
+### **Auteur: BIABA KUYA Jirince**
